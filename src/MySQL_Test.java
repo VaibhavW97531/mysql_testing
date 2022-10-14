@@ -1,5 +1,4 @@
 import java.sql.*;
-
 public class MySQL_Test {
     public static void main(String[] args) throws Exception{
 
@@ -22,5 +21,4 @@ public class MySQL_Test {
         st.close();
         con.close();
     }
-
 }
